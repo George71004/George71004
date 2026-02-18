@@ -5,9 +5,9 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" height="60" alt="frontend stack" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,py,mysql,postgresql,sqlserver" height="60" alt="backend stack" />
+  <img src="https://skillicons.dev/icons?i=npm,nodejs,express,nestjs,py,mysql,postgresql,sqlserver" height="60" alt="backend stack" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart,flutter,git,postman" height="60" alt="mobile and tools" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,git,github,postman" height="60" alt="mobile and tools" />
 </div>
 
 ###
