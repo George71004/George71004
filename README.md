@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" height="60" alt="frontend stack" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=npm,nodejs,express,nestjs,py,mysql,postgresql,sqlserver" height="60" alt="backend stack" />
+  <img src="https://skillicons.dev/icons?i=npm,nodejs,express,nestjs,py,mysql,postgresql" height="60" alt="backend stack" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dart,flutter,git,github,postman" height="60" alt="mobile and tools" />
 </div>
@@ -20,8 +20,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=George71004&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=George71004&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
