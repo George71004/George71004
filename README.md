@@ -1,33 +1,40 @@
-👋 ¡Hola! Soy George71004
-<p align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D02569B%26height%3D150%26section%3Dheader%26text%3DFlutter%2520Developer%26fontSize%3D50" width="100%" />
-</p>
+<h1 align="center">Jorge Dev</h1>
 
-🚀 Sobre Mí
-💻 Desarrollador enfocado en Flutter & Dart.
+###
 
-📊 Creador de StatsPRO v2, una app para análisis de rendimiento deportivo.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo"  />
+</div>
 
-⚡ Me especializo en interfaces interactivas y persistencia de datos local.
+###
 
-🌱 Actualmente profundizando en Firebase y arquitecturas escalables.
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+</div>
 
-🛠️ Stack Tecnológico
-Lenguajes y Frameworks:
+###
 
-Herramientas y Base de Datos:
+<div align="center">
+  />
+</div>
 
-📊 Estadísticas de GitHub
-<p align="center">
-<img height="170" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DGeorge71004%26show_icons%3Dtrue%26theme%3Dradical" />
-<img height="170" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DGeorge71004%26layout%3Dcompact%26theme%3Dradical" />
-</p>
+###
 
-📂 Proyecto Destacado: StatsPRO v2
-Aplicación móvil para la gestión y comparación de estadísticas de jugadores.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
-
-📫 Conecta conmigo:
-LinkedIn: [Tu Perfil aquí]
-
-Email: [Tu Email aquí]
+###
