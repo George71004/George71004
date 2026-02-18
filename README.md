@@ -25,6 +25,6 @@
 
 ###
 
-<img align="center" height="150" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif"  />
+<img align="middle" height="200" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif"  />
 
 ###
