@@ -1,19 +1,13 @@
-<h1 align="center">Jorge Dev</h1>
+<h1 align="center">Jorge Developer</h1>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" height="60" alt="frontend stack" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,py,mysql,postgresql,sqlserver" height="60" alt="backend stack" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo"  />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,git,postman" height="60" alt="mobile and tools" />
 </div>
 
 ###
@@ -26,7 +20,8 @@
 ###
 
 <div align="center">
-  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
