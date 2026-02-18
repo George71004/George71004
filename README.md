@@ -17,14 +17,12 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
 
+
+<img align="rigth" height="200" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif"  />
+
+
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=George71004&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<img align="center" height="200" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif"  />
-
-###
